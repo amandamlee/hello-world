@@ -1,2 +1,7 @@
 # hello-world
-Just another respository
+
+Hello!
+
+Practicing making and committing changes. 
+
+
